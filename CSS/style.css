@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+main {
+    margin-left: 1%;
+}
+
 img {
     max-width: 100%;
 }
