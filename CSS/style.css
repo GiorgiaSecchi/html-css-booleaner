@@ -66,13 +66,17 @@ th, td {
 }
 
 tr:nth-child(odd) {
-    background-color: #00d5ff;
+    background-color: #8fecff;
   }
 
 th {
     color: white;
     background-color: rgb(0, 170, 255);
-    
+}
+
+footer {
+    color: gray;
+    font-weight: bold;
 }
   
 .background-foot-1 {
@@ -100,7 +104,6 @@ th {
     color: white;
 }
 
-footer {
-    color: gray;
-    font-weight: bold;
-}
+
+
+
