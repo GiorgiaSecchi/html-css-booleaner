@@ -41,10 +41,15 @@ h1 {
 .img-description {
     font-size: 12px;
     line-height: 1.6%;
+    margin-bottom: 2%;
 }
 
 figure {
     margin: 0%;
+}
+
+.list {
+    margin-left: -1.5%
 }
 
 th, td {
